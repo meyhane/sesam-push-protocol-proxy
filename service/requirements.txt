@@ -1,4 +1,4 @@
 requests==2.22.0
-Flask==1.1.0
+Flask==2.3.2
 cherrypy==18.2.0
 sesamutils==0.1.10
